@@ -1,0 +1,2 @@
+FLASK_APP=chepeblog.py
+FLASK_ENV=development
